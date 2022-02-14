@@ -32,3 +32,5 @@ gem "bootsnap", require: false
 gem "i18n", "~> 1.8.11"
 
 gem "rails-i18n", "~> 7.0"
+
+gem "bootsnap", "~> 1.10", require: false
