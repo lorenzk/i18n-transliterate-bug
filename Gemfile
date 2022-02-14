@@ -28,7 +28,8 @@ group :development do
   # gem "spring"
 end
 
-gem "bootsnap", require: false
-gem "i18n", "~> 1.8.11"
+gem "i18n", "~> 1.9.1"
 
 gem "rails-i18n", "~> 7.0"
+
+gem "bootsnap", "~> 1.10", require: false
